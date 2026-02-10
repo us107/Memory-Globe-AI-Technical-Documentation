@@ -16,7 +16,7 @@ An immersive, gesture-controlled 3D visualization platform that turns your photo
 ## 📹 Demo
 
 <!-- Add your demo video here -->
-https://github.com/user-attachments/assets/your-video-file.mp4
+https://github.com/us107/demo.mp4
 
 *Experience zero-touch navigation through your memory sphere using AI hand tracking*
 
