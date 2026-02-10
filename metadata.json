@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Memory Globe AI",
+  "description": "An interactive 3D memory globe that uses MediaPipe hand tracking to zoom, rotate, and control the speed of floating memories via hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
